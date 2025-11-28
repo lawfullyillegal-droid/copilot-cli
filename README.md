@@ -1,4 +1,4 @@
-# GitHub Copilot CLI (Public Preview)
+# GitHub Copilot [![CI Status](https://github.com/Travis-Ryle-Private-Bank-Estate-Trust/TravisRyleTrust/actions/workflows/ci.yml/badge.svg)](https://github.com/Travis-Ryle-Private-Bank-Estate-Trust/TravisRyleTrust/actions) (Public Preview)
 
 The power of GitHub Copilot, now in your terminal.
 
